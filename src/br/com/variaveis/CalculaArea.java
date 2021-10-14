@@ -41,7 +41,6 @@ public class CalculaArea {
 				System.err.println("Sexo: Indefinido");
 			}
 
-			System.out.println();
 			System.out.printf("((%d + %d)/2) x %d = %.2f de área \n", b, B, h, area);
 			System.out.println("\n *** Calculo encerrado com Sucesso ***");
 
